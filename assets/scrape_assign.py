@@ -11,6 +11,7 @@ from filewriter_assign import FileWriterTool
 import time
 import re
 
+
 file_writer_tool = FileWriterTool()
 # Initialization of chrome driver
 chrome_options = Options()
