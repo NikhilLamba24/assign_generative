@@ -1,6 +1,7 @@
 from scrape_assign import Assign
 from crewprocess import User_ask, Crew_stuff
 
+
 def initiate_and_scrape():
     '''
     responsible for:
