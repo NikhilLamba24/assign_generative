@@ -1,5 +1,6 @@
 import os
 
+
 def find_images_in_directory(directory):
     # List of image extensions to be checked extensively
     image_extensions = ['.jpg', '.jpeg', '.png', '.gif', '.bmp']
